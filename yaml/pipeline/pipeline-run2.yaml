@@ -11,7 +11,7 @@ spec:
         name: git
   params:
     - name: pathToContext
-      value: "src"
+      value: "mysrc"
     - name: pathToYamlFile
       value: "deploy.yaml"
     - name: "imageUrl"
