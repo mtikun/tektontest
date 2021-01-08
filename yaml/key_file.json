@@ -1,0 +1,14 @@
+{
+	"id": "ApiKey-4d0931db-53aa-431f-aaa9-74ef54d574db",
+	"crn": "crn:v1:bluemix:public:iam-identity::a/93d28863cf37e6d57ac2e971ce2740fdF::apikey:ApiKey-4d0931db-53aa-431f-aaa9-74ef54d574db",
+	"iam_id": "IBMid-3100028B50",
+	"account_id": "93d28863cf37e6d57ac2e971ce2740fd",
+	"name": "MyKey",
+	"description": "this is my API key",
+	"apikey": "94342eqXs7ETZJVmB20jZJhYi-3ZwsoJ4TrOQ072T_Sr",
+	"locked": false,
+	"entity_tag": "1-4d894eaff5238196d411e545db81f15f",
+	"created_at": "2021-01-08T08:57+0000",
+	"created_by": "IBMid-3100028B50",
+	"modified_at": "2021-01-08T08:57+0000"
+}
